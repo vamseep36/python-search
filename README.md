@@ -1,5 +1,6 @@
-# Selenium Projects
+# Python Search using the beautifulsoup4 and Selenium
 ---
+## Using Selenium
 ### Prerequisite
 ```
 Install selenium library
@@ -7,4 +8,10 @@ Add Chrome Web Driver to Path
 Download: https://chromedriver.chromium.org/downloads
 
 ```
-Some of the projects I had done using Selenium using Chrome web driver.
+## Using Console
+## Prequesite
+---
+```
+pip install google
+pip install beautifulsoup4
+```
